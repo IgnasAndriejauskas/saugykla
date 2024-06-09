@@ -1,0 +1,8 @@
+baseURL = 'https://IgnasAndriejauskas.github.io/'
+languageCode = 'en-us'
+title = 'Ignas Andriejauskas blog'
+theme = 'papermod'
+[[menu.main]]
+name = "About"
+url = "/pages/about/"
+weight = 10
